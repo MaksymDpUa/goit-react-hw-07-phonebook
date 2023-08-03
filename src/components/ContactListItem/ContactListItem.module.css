@@ -1,0 +1,16 @@
+.contactInfo {
+  display: inline-block;
+  margin: 0px 12px 12px 0px;
+}
+
+.deleteBtn {
+  cursor: pointer;
+}
+
+.deleteBtn:hover {
+  background-color: rgb(20, 89, 238);
+}
+
+.contactName {
+  font-weight: 700;
+}

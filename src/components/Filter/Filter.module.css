@@ -1,0 +1,16 @@
+.inputFilter {
+  display: block;
+  border: 1px solid black;
+  outline: none;
+}
+
+.inputFilter:hover,
+.inputFilter:focus {
+  border-color: rgb(20, 89, 238);
+}
+
+.lableFilter {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 8px;
+}
